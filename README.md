@@ -6,3 +6,5 @@ In this Project , we used four algorithm for determining shortest path between t
 2.Dijkstra's Algorithm<br>
 3.Bellman's Ford Algorithm<br>
 4.Floyd Warshall Algorithm<br>
+
+For this Project,we chose 14 hot locations inside the IITJ Campus.
