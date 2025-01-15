@@ -10,7 +10,7 @@ In this Project , we used four algorithm for determining shortest path between t
 For this Project,we chose 14 hot locations inside the IITJ Campus.
 
 # Different Locations across our IIT Jodhpur Campus.
-1. Lecture Hall Complex 2. Student Hostel (for me i.e. Y3) 3. Old Mess 4. New Mess 5. Shamiyana 6. Knowledge Tree 7. Sports Complex 8. Departmental Buildings 9. PHC 10. Jodhpur Club 11. CC Lab 12. Rukmani Enterprises 13. Kendriya BHnadar 14. Director Building
+1) Lecture Hall Complex 2) Student Hostel (for me i.e. Y3) 3) Old Mess 4) New Mess 5) Shamiyana 6) Knowledge Tree 7) Sports Complex 8) Departmental Buildings 9) PHC 10) Jodhpur Club 11)  CC Lab 12) Rukmani Enterprises 13) Kendriya BHnadar 14) Director Building
 
 ## Work-flow in this project : -
 Wrote the code for 4 different dsa algorithm for map navigation namely dijkstra, A*, Floyd warshall, Bellman's ford algorithm. Mainly dijsktra is used in our project because in our case there is no negative cycles when we considered location as nodes and distance between them as weights.
