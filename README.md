@@ -24,4 +24,7 @@ For this Project,we chose 14 hot locations inside the IITJ Campus.
 12. Rukmani Enterprises
 13. Kendriya BHnadar
 14. Director Building
+
+## Work-flow in this project : -
+Wrote the code for 4 different dsa algorithm for map navigation namely dijkstra, A*, Floyd warshall, Bellman's ford algorithm. Mainly dijsktra is used in our project because in our case there is no negative cycles when we considered location as nodes and distance between them as weights.
     
